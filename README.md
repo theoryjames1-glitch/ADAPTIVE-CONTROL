@@ -1,7 +1,3 @@
-perfect — let’s package **Adaptive Control Scheduling (ACS)** into a self-contained **theory + demo** that shows the concept in both words and code.
-
----
-
 # 🎛 Adaptive Control Scheduling (ACS)
 
 ## Theory
@@ -174,6 +170,5 @@ plt.show()
 
 ✅ This demo shows that **Adaptive Control Scheduling** is a working **feedback-based alternative** to fixed schedulers — a DSP-style envelope on optimizer coefficients.
 
----
 
-Would you like me to extend this so ACS also adapts **momentum** (μ envelope) alongside LR, so the demo shows both coefficients evolving together?
+[![Video Title](https://img.youtube.com/vi/MM62wjLrgmA/0.jpg)](https://www.youtube.com/watch?v=MM62wjLrgmA)
